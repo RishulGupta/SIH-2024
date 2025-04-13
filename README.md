@@ -1,52 +1,57 @@
-# SIH-2024
+# 🌌 SAR Image Colorization for Comprehensive Insight using Deep Learning
 
-## Problem Statement ID: 1733
-## Problem Statement Title: SAR Image Colorization for Comprehensive Insight using Deep Learning Model (h)
+**Team NEXTECH** – Smart India Hackathon (SIH) 2024 Submission  
+**Problem Statement ID:** 1733  
+**Organization:** Indian Space Research Organization (ISRO)  
+**Category:** Software  
+**Theme:** Space Technology  
 
-## Team Name: NEXTECH
+---
 
-### Team Members:
-- **Manik Chauhan**
-- **Gitansh Goel**
-- **Mansi Dwivedi**
-- **Rishul Gupta**
-- **Deepak Vashisth**
-- **Kartik Gupta**
+## 🚀 Project Overview
 
-## Project Overview
+This repository contains the project submission for **Smart India Hackathon 2024** by **Team NEXTECH**. The project addresses the challenge titled **"SAR Image Colorization for Comprehensive Insight using Deep Learning Model"**.
 
-This repository contains the project submission for Smart India Hackathon (SIH) 2024 by Team NEXTECH. The project addresses the problem statement "SAR Image Colorization for Comprehensive Insight using Deep Learning Model," aiming to develop an innovative solution for enhancing the interpretability of monochromatic SAR imagery through colorization using deep learning models.
+The core objective is to enhance the interpretability of monochromatic Synthetic Aperture Radar (SAR) images by applying **deep learning-based colorization techniques**. SAR imagery, though rich in structural and textural detail, lacks color, making it less intuitive for visual analysis. By colorizing these grayscale images, we aim to provide a more comprehensive and user-friendly representation for remote sensing applications.
 
-## Problem Statement
+---
+
+## 🧠 Problem Statement
 
 **Description:**  
-Synthetic Aperture Radar (SAR) imagery is rich in structural and textural information but lacks the intuitive appeal of color, which can provide more comprehensive insights for spaceborne applications. SAR image colorization using Deep Learning (DL) models offers a transformative approach for enhancing the interpretability of monochromatic SAR image data.
-
-The project aims to develop a novel DL model to colorize grayscale SAR images for enhanced interpretation and analysis of feature targets. The model will be trained using pairs of SAR and Optical images, with a focus on minimizing a loss function that captures the difference between predicted and actual color images. The challenge is to create a DL system that accurately predicts and applies colors to SAR images, making surface features more distinguishable and interpretable.
+Synthetic Aperture Radar (SAR) imagery offers high-resolution imaging with structural and textural richness. However, due to the absence of color, these images often require expert interpretation. By developing a Deep Learning (DL) model capable of intelligently colorizing SAR images, this project aims to significantly enhance image readability and usability for analysts.
 
 **Challenge:**  
-The challenges require innovative approaches in data pre-processing, DL model design, and evaluation methodologies to develop effective and reliable SAR image colorization solutions.
-
-**Usage:**  
-The goal is to improve the usability of SAR data in applications like geological studies and environmental monitoring by providing more intuitive and informative visual representations.
-
-**Users:**  
-Remote Sensing Image Analysts
-
-**Available Solutions:**  
-Existing Deep Learning models have been proposed and used but their performance is not satisfactory.
+- Innovative preprocessing and data pairing between SAR and optical images  
+- Designing a robust and scalable DL model architecture  
+- Choosing appropriate loss functions for perceptual and pixel-wise accuracy  
+- Ensuring generalizability across various SAR datasets and terrain types
 
 **Desired Outcome:**  
-DL based SAR Image Colorization Software.
+A reliable and effective **DL-based SAR Image Colorization Software** that improves visual analysis for remote sensing professionals.
 
-**Organization:**  
-Indian Space Research Organization (ISRO)
+---
 
-**Department:**  
-Indian Space Research Organisation (ISRO)
+## 🧪 Applications
 
-**Category:**  
-Software
+- 🌋 Geological and terrain analysis  
+- 🌳 Environmental and forestry monitoring  
+- 🛰️ Earth observation and spaceborne data interpretation  
+- 📊 Enhanced feature discrimination in satellite imagery  
 
-**Theme:**  
-Space Technology
+**Target Users:** Remote Sensing Image Analysts, Researchers, and Institutions dealing with SAR datasets.
+
+---
+
+## 👥 Team NEXTECH
+
+- Manik Chauhan  
+- Gitansh Goel  
+- Mansi Dwivedi  
+- Rishul Gupta  
+- Deepak Vashisth  
+- Kartik Gupta  
+
+---
+
+
