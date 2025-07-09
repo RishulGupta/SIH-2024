@@ -1,0 +1,6 @@
+uploads/
+outputs/
+venv/
+.env
+.env.*
+!.env.example
