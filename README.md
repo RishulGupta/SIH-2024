@@ -60,13 +60,7 @@ SSIM (Structural Similarity): Ensures perceptual quality.
 
 Perceptual Loss (VGG) (optional): Captures semantic similarity.
 
-📂 Getting Started
-bash
-Copy
-Edit
-git clone https://github.com/GitsGoel/SARGAN
 
-cd SARGAN
 🗂️ Dataset Preparation
 Download the datasets from Kaggle:
 
