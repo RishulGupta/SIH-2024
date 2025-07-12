@@ -126,18 +126,12 @@ Urban Growth Analysis
 Environmental Surveillance
 
 👨‍💻 Contributors
+Rishul Gupta
 Gitansh Goel
 Manik Chauhan 
+Kartik Gupta
+Mansi Dwivedi
 
 📜 License
 This project is released under the MIT License.
 
-Let me know if you'd like:
-
-requirements.txt
-
-Docker setup
-
-REST API deployment documentation
-
-I can generate those next.
